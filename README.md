@@ -5,6 +5,11 @@ Welcome to my GitHub portfolio! I'm [Your Name], a [Your Profession/Role] passio
 
 ![NurulIslam17's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NurulIslam17&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
+![NurulIslam17's Stats](https://github-readme-stats.vercel.app/api?username=NurulIslam17&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+
+![NurulIslam17's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NurulIslam17&theme=vue-dark&hide_border=true)
+
 ## About Me
 
 - **Name:** Your Name

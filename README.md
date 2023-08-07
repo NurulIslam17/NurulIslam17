@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nurul Islam</h1>
+<div align="center">
+  <h1 align="center">Hi 👋, I'm Nurul Islam</h1>
 <h3 align="center">A passionate backend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurulislam17&label=Profile%20views&color=0e75b6&style=flat" alt="nurulislam17" /> </p>
@@ -29,3 +30,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nurulislam17&show_icons=true&locale=en" alt="nurulislam17" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nurulislam17&" alt="nurulislam17" /></p>
+
+</div>

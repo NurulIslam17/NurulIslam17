@@ -17,8 +17,7 @@ Welcome to my GitHub portfolio! I'm [Your Name], a [Your Profession/Role] passio
 - **Profession:** Your Profession/Role
 - **Email:** Your Email Address
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
-- **Portfolio Website:** [Your Portfolio Website](https://www.yourwebsite.com/)
-
+- 
 ## Projects
 
 ### Project 1: [Project Name](Link to Project Repository)

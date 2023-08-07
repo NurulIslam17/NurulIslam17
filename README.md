@@ -2,6 +2,9 @@
 
 Welcome to my GitHub portfolio! I'm [Your Name], a [Your Profession/Role] passionate about [Your Interests]. Here, you'll find a collection of my projects that showcase my skills and interests.
 
+
+![NurulIslam17's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NurulIslam17&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 ## About Me
 
 - **Name:** Your Name

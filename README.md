@@ -1,52 +1,14 @@
-# Your Name's GitHub Portfolio
+### Hi there 👋, my name is Nurul Islam
+![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-Welcome to my GitHub portfolio! I'm [Your Name], a [Your Profession/Role] passionate about [Your Interests]. Here, you'll find a collection of my projects that showcase my skills and interests.
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+Skills: HTML / CSS / Javascript/Php/Laravel / React / SQL /MySQL
+
+- 🔭 I’m currently working on Php and Its Framework Laravel 
+- 🌱 I’m currently learning React Js 
+- 💬 Ask me about Laravel 
 
 
-![NurulIslam17's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NurulIslam17&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
-![NurulIslam17's Stats](https://github-readme-stats.vercel.app/api?username=NurulIslam17&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
-
-![NurulIslam17's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NurulIslam17&theme=vue-dark&hide_border=true)
-
-## About Me
-
-- **Name:** Your Name
-- **Location:** Your Location
-- **Profession:** Your Profession/Role
-- **Email:** Your Email Address
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
-- 
-## Projects
-
-### Project 1: [Project Name](Link to Project Repository)
-
-Short description of the project. This project showcases my skills in [Skills Used].
-
-### Project 2: [Project Name](Link to Project Repository)
-
-Short description of the project. This project demonstrates my proficiency in [Skills Used].
-
-### Project 3: [Project Name](Link to Project Repository)
-
-Short description of the project. In this project, I focused on [Skills Used].
-
-## Skills
-
-- List some of your key skills here, such as programming languages, frameworks, tools, etc.
-
-## Achievements
-
-- List any notable achievements, awards, or certifications related to your field.
-
-## Interests
-
-- Share some of your hobbies or interests outside of coding or your profession.
-
-## Contact Me
-
-Feel free to reach out to me via [Email](mailto:youremail@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile/).
-
-Thank you for visiting my portfolio!
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/nurul-islam-5732461b3//)  
 

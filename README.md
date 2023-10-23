@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **nurulcse09@gmail.com**
 
-- - 👨‍💻 Explore [https://github.com/NurulIslam17](https://github.com/NurulIslam17)
+-  👨‍💻 Explore [more..](https://react-tailwind-sepia.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

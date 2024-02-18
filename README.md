@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Departmet of Fisheries](https://dof.btfautomations.app/)
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning *DSA with Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NurulIslam17](https://github.com/NurulIslam17)
 

@@ -27,7 +27,6 @@
     </div>
 
     <div>
-
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nurulislam17&" alt="nurulislam17" /></p>
+        <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nurulislam17&show_icons=true&locale=en&layout=compact" alt="nurulislam17" /></p>
     </div>
 </div>

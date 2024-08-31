@@ -23,7 +23,7 @@
 
 
 <div style="display:flex!important; ">
-    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nurulislam17&show_icons=true&locale=en" alt="nurulislam17" /></p>
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nurulislam17&" alt="nurulislam17" /></p>
+    <p style="display: inline-block;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nurulislam17&show_icons=true&locale=en" alt="nurulislam17" /></p>
+    <p style="display: inline-block;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nurulislam17&" alt="nurulislam17" /></p>
 </div>
 

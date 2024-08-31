@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nurulislam17" alt="nurulislam17" /></a> </p>
 
-- 🔭 I’m currently working on [Departmet of Fisheries](https://dof.btfautomations.app/)
+- 🔭 I’m currently working at iSharify Ltd (https://ecomclips.com/)
 
 - 🌱 I’m currently learning **DSA with Python**
 

@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurulislam17&label=Profile%20views&color=0e75b6&style=flat" alt="nurulislam17" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nurulislam17" alt="nurulislam17" /></a> </p>
-
 - 🔭 I’m currently working at [iSharify Ltd](https://ecomclips.com/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/NurulIslam17](https://github.com/NurulIslam17)
@@ -24,5 +22,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nurulislam17&show_icons=true&locale=en&layout=compact" alt="nurulislam17" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nurulislam17&show_icons=true&locale=en" alt="nurulislam17" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nurulislam17&" alt="nurulislam17" /></p>

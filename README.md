@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurulislam17&label=Profile%20views&color=0e75b6&style=flat" alt="nurulislam17" /> </p>
 
-- 🔭 I’m currently working at [Pippa Technologies Inc.](https://pippatech.boostonamazon.com/)
+- 🔭 I’m currently working at [Pippa Technologies Inc.](https://thisispippa.com/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/NurulIslam17](https://github.com/NurulIslam17)
 

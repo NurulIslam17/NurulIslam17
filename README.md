@@ -4,6 +4,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurulislam17&label=Profile%20views&color=0e75b6&style=flat" alt="nurulislam17" /> </p>
 
 
+- 🌱 I’m currently learning **Spring Boot**
+
+- 👨‍💻 All of my projects are available at [https://github.com/NurulIslam17](https://github.com/NurulIslam17)
+
+- 💬 Ask me about **PHP, Laravel and React**
+- 
 - 👨‍💻 All of my projects are available at [https://github.com/NurulIslam17](https://github.com/NurulIslam17)
 
 - 📫 How to reach me **nurulcse09@gmail.com**

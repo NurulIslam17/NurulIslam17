@@ -9,8 +9,6 @@
 - 👨‍💻 All of my projects are available at [https://github.com/NurulIslam17](https://github.com/NurulIslam17)
 
 - 💬 Ask me about **PHP, Laravel and React**
-  
-- 👨‍💻 All of my projects are available at [https://github.com/NurulIslam17](https://github.com/NurulIslam17)
 
 - 📫 How to reach me **nurulcse09@gmail.com**
 
